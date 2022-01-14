@@ -15,6 +15,7 @@ const binarySearch = (list, item) => {
 	}
 	return null;
 };
+
 // const list = [1,3,4,5,6,7,8,9];
 // console.log(binarySearch(list,7));
 // console.log(binarySearch(list, -1));

@@ -10,6 +10,7 @@ function findSmallest(arr) {
 	}
 	return smallestIndex;
 }
+
 function selectionSort(arr) {
 	let newArr = [];
 
